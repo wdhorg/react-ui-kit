@@ -7,8 +7,10 @@
 /coverage
 
 # production
-/build
-/out
+cjs
+build
+esm
+umd
 
 # misc
 .DS_Store
