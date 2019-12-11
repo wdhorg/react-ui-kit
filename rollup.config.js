@@ -2,7 +2,7 @@ import resolve from "rollup-plugin-node-resolve";
 import filesize from "rollup-plugin-filesize";
 import commonjs from "rollup-plugin-commonjs";
 import cleanup from "rollup-plugin-cleanup";
-import { uglify } from "rollup-plugin-uglify";
+import { terser } from "rollup-plugin-terser";
 import json from "rollup-plugin-json";
 
 const input = "cjs/index.js";
@@ -18,7 +18,7 @@ const plugins = [
   commonjs(commonjsOptions),
   json(),
   cleanup(),
-  uglify(),
+  terser(),
   filesize()
 ];
 
