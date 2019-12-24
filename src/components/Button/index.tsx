@@ -2,6 +2,8 @@ import React from "react";
 import { DefaultColors } from "../../typings";
 import classnames from "classnames";
 
+import "./button.scss";
+
 type ButtoState = {
   clicked: boolean;
 };

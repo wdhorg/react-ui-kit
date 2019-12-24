@@ -18,6 +18,12 @@ module.exports = ({ config }) => {
     ]
   });
 
+  config.module.rules.push({
+    test: /\.scss$/,
+    use: ['style-loader', 'css-loader', 'sass-loader'],
+    include: [SRC_PATH],
+  });
+
   config.resolve.extensions.push(".ts", ".tsx");
 
   return config;
