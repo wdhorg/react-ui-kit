@@ -23,7 +23,7 @@
     "src"
   ],
   "devDependencies": {
-    "@babel/core": "7.12.1",
+    "@babel/core": "7.12.3",
     "@storybook/addon-actions": "6.0.26",
     "@storybook/addon-knobs": "6.0.26",
     "@storybook/addon-notes": "5.3.21",
