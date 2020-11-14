@@ -38,7 +38,7 @@
     "react-docgen-typescript-loader": "3.7.2",
     "react-docgen-typescript-webpack-plugin": "1.1.0",
     "rimraf": "3.0.2",
-    "rollup": "2.33.1",
+    "rollup": "2.33.2",
     "rollup-plugin-cleanup": "3.2.1",
     "rollup-plugin-commonjs": "10.1.0",
     "rollup-plugin-filesize": "9.0.2",
