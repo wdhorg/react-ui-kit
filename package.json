@@ -23,7 +23,7 @@
     "src"
   ],
   "devDependencies": {
-    "@babel/core": "7.12.7",
+    "@babel/core": "7.12.10",
     "@storybook/addon-actions": "6.1.2",
     "@storybook/addon-knobs": "6.1.2",
     "@storybook/addon-notes": "5.3.21",
@@ -33,7 +33,7 @@
     "@types/react": "17.0.0",
     "@types/react-dom": "17.0.0",
     "awesome-typescript-loader": "5.2.1",
-    "babel-loader": "8.2.1",
+    "babel-loader": "8.2.2",
     "node-sass": "5.0.0",
     "react-docgen-typescript-loader": "3.7.2",
     "react-docgen-typescript-webpack-plugin": "1.1.0",
