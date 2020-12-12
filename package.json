@@ -29,7 +29,7 @@
     "@storybook/addon-notes": "5.3.21",
     "@storybook/addons": "6.1.10",
     "@storybook/react": "6.1.10",
-    "@types/node": "12.19.6",
+    "@types/node": "12.19.9",
     "@types/react": "17.0.0",
     "@types/react-dom": "17.0.0",
     "awesome-typescript-loader": "5.2.1",
